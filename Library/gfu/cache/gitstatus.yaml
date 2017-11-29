@@ -11,19 +11,265 @@ MonoBehaviour:
   m_Script: {fileID: 995438498, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-11-29T12:55:06.9758231-08:00
-  lastVerifiedAtString: 2017-11-29T12:55:06.9758231-08:00
+  lastUpdatedAtString: 2017-11-29T13:35:49.0546727-08:00
+  lastVerifiedAtString: 2017-11-29T13:35:49.0546727-08:00
   status:
     LocalBranch: master
     RemoteBranch: origin/master
     Ahead: 0
     Behind: 0
     Entries:
+    - Path: Assets\Plugins.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins.meta
+      ProjectPath: Assets\Plugins.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\EULA.txt
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\EULA.txt
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Octokit.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\Rackspace.Threading.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Net.Http.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.so
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\libsfw.so
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      FullPath: E:\repos\LaserDefender\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      ProjectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Assets\_Scenes\Game.unity
+      FullPath: E:\repos\LaserDefender\Assets\_Scenes\Game.unity
+      ProjectPath: Assets\_Scenes\Game.unity
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: LaserDefender.csproj
+      FullPath: E:\repos\LaserDefender\LaserDefender.csproj
+      ProjectPath: LaserDefender.csproj
+      OriginalPath: 
+      Status: 3
+      Staged: 0
     - Path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
       FullPath: E:\repos\LaserDefender\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
       ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
       OriginalPath: 
       Status: 3
+      Staged: 0
+    - Path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      FullPath: E:\repos\LaserDefender\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      ProjectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      OriginalPath: 
+      Status: 5
       Staged: 0
     - Path: Library\assetDatabase3
       FullPath: E:\repos\LaserDefender\Library\assetDatabase3
@@ -37,27 +283,495 @@ MonoBehaviour:
       OriginalPath: 
       Status: 3
       Staged: 0
+    - Path: Library\gfu\cache\gitlocks.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitlocks.yaml
+      ProjectPath: Library\gfu\cache\gitlocks.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitlog.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitstatus.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitstatus.yaml
+      ProjectPath: Library\gfu\cache\gitstatus.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
     - Path: Library\gfu\cache\repoinfo.yaml
       FullPath: E:\repos\LaserDefender\Library\gfu\cache\repoinfo.yaml
       ProjectPath: Library\gfu\cache\repoinfo.yaml
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: Library\metadata\00\0000000000000000e100000000000000
-      FullPath: E:\repos\LaserDefender\Library\metadata\00\0000000000000000e100000000000000
-      ProjectPath: Library\metadata\00\0000000000000000e100000000000000
+    - Path: Library\metadata\00\00000000000000005100000000000000
+      FullPath: E:\repos\LaserDefender\Library\metadata\00\00000000000000005100000000000000
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000
       OriginalPath: 
       Status: 3
       Staged: 0
-    - Path: LaserDefender.csproj
-      FullPath: E:\repos\LaserDefender\LaserDefender.csproj
-      ProjectPath: LaserDefender.csproj
+    - Path: Library\metadata\00\00000000000000008000000000000000
+      FullPath: E:\repos\LaserDefender\Library\metadata\00\00000000000000008000000000000000
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      FullPath: E:\repos\LaserDefender\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      ProjectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      FullPath: E:\repos\LaserDefender\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      ProjectPath: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      ProjectPath: Library\metadata\04\04b3be0a51e83204dbf11ef8ac0f1277.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      FullPath: E:\repos\LaserDefender\Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      ProjectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      ProjectPath: Library\metadata\11\11043fc3a881495409d0828a9dcb372e.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      FullPath: E:\repos\LaserDefender\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      ProjectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      FullPath: E:\repos\LaserDefender\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      ProjectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      FullPath: E:\repos\LaserDefender\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      ProjectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      ProjectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\18\18eb894d53ff491408b69602eb959000
+      FullPath: E:\repos\LaserDefender\Library\metadata\18\18eb894d53ff491408b69602eb959000
+      ProjectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      ProjectPath: Library\metadata\18\18eb894d53ff491408b69602eb959000.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      FullPath: E:\repos\LaserDefender\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      ProjectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      ProjectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      FullPath: E:\repos\LaserDefender\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      ProjectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      FullPath: E:\repos\LaserDefender\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      ProjectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      ProjectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      FullPath: E:\repos\LaserDefender\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      ProjectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      ProjectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      FullPath: E:\repos\LaserDefender\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      ProjectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      ProjectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      FullPath: E:\repos\LaserDefender\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      ProjectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      ProjectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      FullPath: E:\repos\LaserDefender\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      ProjectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      FullPath: E:\repos\LaserDefender\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      ProjectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      ProjectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      FullPath: E:\repos\LaserDefender\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      ProjectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      FullPath: E:\repos\LaserDefender\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      ProjectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\92\92f00a2767170d54197ada6f09009a8c
+      FullPath: E:\repos\LaserDefender\Library\metadata\92\92f00a2767170d54197ada6f09009a8c
+      ProjectPath: Library\metadata\92\92f00a2767170d54197ada6f09009a8c
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\92\92f00a2767170d54197ada6f09009a8c.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\92\92f00a2767170d54197ada6f09009a8c.info
+      ProjectPath: Library\metadata\92\92f00a2767170d54197ada6f09009a8c.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      FullPath: E:\repos\LaserDefender\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      ProjectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      ProjectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      FullPath: E:\repos\LaserDefender\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      ProjectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      ProjectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      FullPath: E:\repos\LaserDefender\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      ProjectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      ProjectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      FullPath: E:\repos\LaserDefender\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      ProjectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb
+      FullPath: E:\repos\LaserDefender\Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb
+      ProjectPath: Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb.info
+      ProjectPath: Library\metadata\ad\adce0fc2f61ad694eb678da7822afbbb.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      FullPath: E:\repos\LaserDefender\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      ProjectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      ProjectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      FullPath: E:\repos\LaserDefender\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      ProjectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      ProjectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      FullPath: E:\repos\LaserDefender\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      ProjectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      ProjectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      ProjectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      ProjectPath: Library\metadata\ca\cab1a58660fb39f4f807d2ca2c727471.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      ProjectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      ProjectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      FullPath: E:\repos\LaserDefender\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      ProjectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      FullPath: E:\repos\LaserDefender\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      ProjectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      FullPath: E:\repos\LaserDefender\Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      ProjectPath: Library\metadata\e2\e206842104c39854182a3706fa5a67bd.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      FullPath: E:\repos\LaserDefender\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      ProjectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      FullPath: E:\repos\LaserDefender\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      ProjectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      FullPath: E:\repos\LaserDefender\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      ProjectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      OriginalPath: 
+      Status: 5
+      Staged: 0
+    - Path: .vs\LaserDefender\v15\sqlite3\storage.ide
+      FullPath: E:\repos\LaserDefender\.vs\LaserDefender\v15\sqlite3\storage.ide
+      ProjectPath: .vs\LaserDefender\v15\sqlite3\storage.ide
       OriginalPath: 
       Status: 1
       Staged: 0
-    - Path: LaserDefender.sln
-      FullPath: E:\repos\LaserDefender\LaserDefender.sln
-      ProjectPath: LaserDefender.sln
+    - Path: Assets\Scripts\PlayerController.cs
+      FullPath: E:\repos\LaserDefender\Assets\Scripts\PlayerController.cs
+      ProjectPath: Assets\Scripts\PlayerController.cs
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Assets\Scripts\PlayerController.cs.meta
+      FullPath: E:\repos\LaserDefender\Assets\Scripts\PlayerController.cs.meta
+      ProjectPath: Assets\Scripts\PlayerController.cs.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Assets\Sprites.meta
+      FullPath: E:\repos\LaserDefender\Assets\Sprites.meta
+      ProjectPath: Assets\Sprites.meta
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Assets\Sprites\playerShip1_red.png
+      FullPath: E:\repos\LaserDefender\Assets\Sprites\playerShip1_red.png
+      ProjectPath: Assets\Sprites\playerShip1_red.png
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Assets\Sprites\playerShip1_red.png.meta
+      FullPath: E:\repos\LaserDefender\Assets\Sprites\playerShip1_red.png.meta
+      ProjectPath: Assets\Sprites\playerShip1_red.png.meta
       OriginalPath: 
       Status: 1
       Staged: 0
@@ -67,9 +781,57 @@ MonoBehaviour:
       OriginalPath: 
       Status: 1
       Staged: 0
-    - Path: Library\gfu\cache\gitstatus.yaml
-      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitstatus.yaml
-      ProjectPath: Library\gfu\cache\gitstatus.yaml
+    - Path: Library\ShaderCache.db
+      FullPath: E:\repos\LaserDefender\Library\ShaderCache.db
+      ProjectPath: Library\ShaderCache.db
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\ShaderCache\7\72e11983a932c7c2ef74e62f5aec5870.bin
+      FullPath: E:\repos\LaserDefender\Library\ShaderCache\7\72e11983a932c7c2ef74e62f5aec5870.bin
+      ProjectPath: Library\ShaderCache\7\72e11983a932c7c2ef74e62f5aec5870.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\ShaderCache\d\de39407681e97007d0f13c0821feede5.bin
+      FullPath: E:\repos\LaserDefender\Library\ShaderCache\d\de39407681e97007d0f13c0821feede5.bin
+      ProjectPath: Library\ShaderCache\d\de39407681e97007d0f13c0821feede5.bin
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98
+      FullPath: E:\repos\LaserDefender\Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98
+      ProjectPath: Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98.info
+      ProjectPath: Library\metadata\5e\5ebfa6af077b0cf40927325524abdf98.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff
+      FullPath: E:\repos\LaserDefender\Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff
+      ProjectPath: Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff.info
+      ProjectPath: Library\metadata\6c\6c9ad48b4c8546f4d82c5ef08f42b2ff.info
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a
+      FullPath: E:\repos\LaserDefender\Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a
+      ProjectPath: Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a.info
+      FullPath: E:\repos\LaserDefender\Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a.info
+      ProjectPath: Library\metadata\d7\d73887b6a149bfb4eb9e22cdacbdd86a.info
       OriginalPath: 
       Status: 1
       Staged: 0
@@ -79,9 +841,45 @@ MonoBehaviour:
       OriginalPath: 
       Status: 1
       Staged: 0
-    - Path: Temp\UnityTempFile-ff5229fe1fa13a545bb7d755f08de246
-      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-ff5229fe1fa13a545bb7d755f08de246
-      ProjectPath: Temp\UnityTempFile-ff5229fe1fa13a545bb7d755f08de246
+    - Path: Temp\UnityTempFile-27afa10e2892bfb4fbe1bbda11569de9
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-27afa10e2892bfb4fbe1bbda11569de9
+      ProjectPath: Temp\UnityTempFile-27afa10e2892bfb4fbe1bbda11569de9
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-2effc7fe51cc72844ab42fe4ee3b553f
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-2effc7fe51cc72844ab42fe4ee3b553f
+      ProjectPath: Temp\UnityTempFile-2effc7fe51cc72844ab42fe4ee3b553f
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-5e4735069f5069447926e821e3a052bc
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-5e4735069f5069447926e821e3a052bc
+      ProjectPath: Temp\UnityTempFile-5e4735069f5069447926e821e3a052bc
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-5f8b1507426554e41b29dfdabd9102b6
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-5f8b1507426554e41b29dfdabd9102b6
+      ProjectPath: Temp\UnityTempFile-5f8b1507426554e41b29dfdabd9102b6
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-688d471fb2bed714cb99ed778d8e06af
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-688d471fb2bed714cb99ed778d8e06af
+      ProjectPath: Temp\UnityTempFile-688d471fb2bed714cb99ed778d8e06af
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-6e575e8c937214f4cb7b0a8ff1fe5a67
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-6e575e8c937214f4cb7b0a8ff1fe5a67
+      ProjectPath: Temp\UnityTempFile-6e575e8c937214f4cb7b0a8ff1fe5a67
+      OriginalPath: 
+      Status: 1
+      Staged: 0
+    - Path: Temp\UnityTempFile-e9300f36e6aa0f144ab4035b04f20dd7
+      FullPath: E:\repos\LaserDefender\Temp\UnityTempFile-e9300f36e6aa0f144ab4035b04f20dd7
+      ProjectPath: Temp\UnityTempFile-e9300f36e6aa0f144ab4035b04f20dd7
       OriginalPath: 
       Status: 1
       Staged: 0

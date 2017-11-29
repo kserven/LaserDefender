@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   lastUpdatedAtString: 2017-11-29T12:55:06.5005510-08:00
-  lastVerifiedAtString: 2017-11-29T12:55:06.5005510-08:00
+  lastVerifiedAtString: 2017-11-29T13:35:42.1159991-08:00
   gitRemote:
     name: origin
     url: https://github.com/kserven/LaserDefender

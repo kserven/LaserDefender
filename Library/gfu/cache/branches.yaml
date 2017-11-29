@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: -913181260, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-11-29T12:55:06.4905450-08:00
-  lastVerifiedAtString: 2017-11-29T12:55:06.5120576-08:00
+  lastUpdatedAtString: 2017-11-29T13:35:42.0934862-08:00
+  lastVerifiedAtString: 2017-11-29T13:35:42.1400138-08:00
   gitConfigBranch:
     Name: master
   gitConfigRemote:
@@ -22,7 +22,10 @@ MonoBehaviour:
   - name: master
     tracking: origin/master
     isActive: 1
-  remoteBranches: []
+  remoteBranches:
+  - name: origin/master
+    tracking: '[None]'
+    isActive: 0
   remotes:
   - name: origin
     url: https://github.com/kserven/LaserDefender
@@ -37,9 +40,14 @@ MonoBehaviour:
     values:
     - Name: master
   remoteConfigBranches:
-    keys: []
-    subKeys: []
-    subKeyValues: []
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - master
+    subKeyValues:
+    - Values:
+      - Name: master
   configRemotes:
     keys:
     - origin

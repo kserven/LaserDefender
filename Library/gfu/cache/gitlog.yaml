@@ -11,9 +11,99 @@ MonoBehaviour:
   m_Script: {fileID: -530159753, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 2017-11-29T12:55:07.6067899-08:00
-  lastVerifiedAtString: 2017-11-29T12:55:07.6067899-08:00
+  lastUpdatedAtString: 2017-11-29T13:35:48.3137245-08:00
+  lastVerifiedAtString: 2017-11-29T13:35:48.3137245-08:00
   log:
+  - CommitID: 29257e9f399b740390d4821f11820b54d102b472
+    MergeA: 
+    MergeB: 
+    AuthorName: Keith Serven
+    AuthorEmail: kserven@gmail.com
+    CommitEmail: kserven@gmail.com
+    CommitName: Keith Serven
+    Summary: cleanup commit
+    Description: cleanup commit
+    TimeString: 2017-11-29T12:59:59.0000000-08:00
+    CommitTimeString: 2017-11-29T12:59:59.0000000-08:00
+    Changes:
+    - Path: LaserDefender.csproj
+      FullPath: E:\repos\LaserDefender\LaserDefender.csproj
+      ProjectPath: LaserDefender.csproj
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: LaserDefender.sln
+      FullPath: E:\repos\LaserDefender\LaserDefender.sln
+      ProjectPath: LaserDefender.sln
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library\CurrentLayout.dwlt
+      FullPath: E:\repos\LaserDefender\Library\CurrentLayout.dwlt
+      ProjectPath: Library\CurrentLayout.dwlt
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      FullPath: E:\repos\LaserDefender\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      ProjectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\assetDatabase3
+      FullPath: E:\repos\LaserDefender\Library\assetDatabase3
+      ProjectPath: Library\assetDatabase3
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\branches.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\branches.yaml
+      ProjectPath: Library\gfu\cache\branches.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitlocks.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitlocks.yaml
+      ProjectPath: Library\gfu\cache\gitlocks.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\gfu\cache\gitlog.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitlog.yaml
+      ProjectPath: Library\gfu\cache\gitlog.yaml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library\gfu\cache\gitstatus.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\gitstatus.yaml
+      ProjectPath: Library\gfu\cache\gitstatus.yaml
+      OriginalPath: 
+      Status: 4
+      Staged: 0
+    - Path: Library\gfu\cache\repoinfo.yaml
+      FullPath: E:\repos\LaserDefender\Library\gfu\cache\repoinfo.yaml
+      ProjectPath: Library\gfu\cache\repoinfo.yaml
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\00\00000000000000005100000000000000
+      FullPath: E:\repos\LaserDefender\Library\metadata\00\00000000000000005100000000000000
+      ProjectPath: Library\metadata\00\00000000000000005100000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\00\00000000000000008000000000000000
+      FullPath: E:\repos\LaserDefender\Library\metadata\00\00000000000000008000000000000000
+      ProjectPath: Library\metadata\00\00000000000000008000000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
+    - Path: Library\metadata\00\0000000000000000e100000000000000
+      FullPath: E:\repos\LaserDefender\Library\metadata\00\0000000000000000e100000000000000
+      ProjectPath: Library\metadata\00\0000000000000000e100000000000000
+      OriginalPath: 
+      Status: 3
+      Staged: 0
   - CommitID: 6f3c9296e4f21a4d661829dd20f85ab17ae46675
     MergeA: 
     MergeB: 
