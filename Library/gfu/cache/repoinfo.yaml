@@ -11,17 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: 1109517887, guid: e206842104c39854182a3706fa5a67bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lastUpdatedAtString: 1/1/0001 12:00:00 AM +00:00
-  lastVerifiedAtString: 1/1/0001 12:00:00 AM +00:00
+  lastUpdatedAtString: 2017-11-29T12:55:06.5005510-08:00
+  lastVerifiedAtString: 2017-11-29T12:55:06.5005510-08:00
   gitRemote:
-    name: 
-    url: 
+    name: origin
+    url: https://github.com/kserven/LaserDefender
     login: 
     user: 
     host: 
     function: 0
     token: 
   gitBranch:
-    name: 
-    tracking: 
-    isActive: 0
+    name: master
+    tracking: origin/master
+    isActive: 1
