@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour {
     public float padding = 1f;
     public float projectileSpeed;
     public float fireRate = 0.2f;
+    public float health = 250;
 
     float xmin;
     float xmax;
@@ -50,7 +51,23 @@ public class PlayerController : MonoBehaviour {
 
     void Fire()
     {
-        GameObject beam = Instantiate(Projectile, transform.position, Quaternion.identity) as GameObject;
+        Vector3 offset = new Vector3(0, 1, 0);
+        GameObject beam = Instantiate(Projectile, transform.position + offset, Quaternion.identity) as GameObject;
         beam.GetComponent<Rigidbody2D>().velocity = new Vector3(0, projectileSpeed, 0);
+    }
+
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        Projectile missle = collider.gameObject.GetComponent<Projectile>();
+        if (missle)
+        {
+            Debug.Log("Player Collided With Missle");
+            missle.Hit();
+            health -= missle.GetDamage();
+            if (health <= 0)
+            {
+                Destroy(gameObject);
+            }
+        }
     }
 }
