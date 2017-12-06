@@ -78,15 +78,14 @@ public class FormationController : MonoBehaviour {
         return true;
     }
 
-    void EnemySpawn()
-    {
-        foreach (Transform child in transform)
-        {
-            GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
-            enemy.transform.parent = child;
-        }
-        
-    }
+    //void EnemySpawn()
+    //{
+    //    foreach (Transform child in transform)
+    //    {
+    //        GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
+    //        enemy.transform.parent = child;
+    //    }
+    //}
 
     void SpawnUntilFull()
     {
