@@ -139,9 +139,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   projectile: {fileID: 1382094856771594, guid: a48b774f81ec6fb428522b5f464b3520, type: 2}
+  enemyLaserSFX: {fileID: 8300000, guid: 8ec58c6160777424c83106c85f4096fc, type: 3}
+  enemyDestroyedSFX: {fileID: 8300000, guid: dc95e04dfe4eb58409107bdfcbf358b7, type: 3}
   projectileSpeed: 10
   health: 150
   shotsPerSecond: 0.5
+  scoreValue: 150
 --- !u!212 &212735856906258656
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -173,8 +176,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1394823839
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: f4d9105b1400bf642848160ec89a2091, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

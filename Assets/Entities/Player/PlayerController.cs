@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour {
 
     public GameObject Projectile;
+    public AudioClip playerLaserSFX;
     public float shipSpeed = 15f;
     public float padding = 1f;
     public float projectileSpeed;
@@ -51,8 +52,8 @@ public class PlayerController : MonoBehaviour {
 
     void Fire()
     {
-        Vector3 offset = new Vector3(0, 1, 0);
-        GameObject beam = Instantiate(Projectile, transform.position + offset, Quaternion.identity) as GameObject;
+        AudioSource.PlayClipAtPoint(playerLaserSFX, transform.position, 1f);
+        GameObject beam = Instantiate(Projectile, transform.position, Quaternion.identity) as GameObject;
         beam.GetComponent<Rigidbody2D>().velocity = new Vector3(0, projectileSpeed, 0);
     }
 
@@ -66,8 +67,15 @@ public class PlayerController : MonoBehaviour {
             health -= missle.GetDamage();
             if (health <= 0)
             {
-                Destroy(gameObject);
+                Die();
             }
         }
+    }
+
+    void Die()
+    {
+        Destroy(gameObject);
+        LevelManager man = GameObject.Find("LevelManager").GetComponent<LevelManager>();
+        man.LoadLevel("GameOver");
     }
 }

@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class FormationController : MonoBehaviour {
     public GameObject enemyPrefab;
+    public AudioClip enemySpawnSFX;
     public float width = 10f;
     public float height = 5f;
     public float enemySpeed = 5f;
@@ -78,20 +79,13 @@ public class FormationController : MonoBehaviour {
         return true;
     }
 
-    //void EnemySpawn()
-    //{
-    //    foreach (Transform child in transform)
-    //    {
-    //        GameObject enemy = Instantiate(enemyPrefab, child.transform.position, Quaternion.identity) as GameObject;
-    //        enemy.transform.parent = child;
-    //    }
-    //}
 
     void SpawnUntilFull()
     {
         Transform freePosition = NextFreePosition();
         if (freePosition)
         {
+            AudioSource.PlayClipAtPoint(enemySpawnSFX, transform.position, 1f);
             GameObject enemy = Instantiate(enemyPrefab, freePosition.position, Quaternion.identity) as GameObject;
             enemy.transform.parent = freePosition;
         }

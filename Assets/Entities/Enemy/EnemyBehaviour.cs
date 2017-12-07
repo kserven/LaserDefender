@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyBehaviour : MonoBehaviour {
     public GameObject projectile;
+    public AudioClip enemyLaserSFX;
+    public AudioClip enemyDestroyedSFX;
     public float projectileSpeed = 10;
     public float health = 150;
     public float shotsPerSecond = 0.5f;
@@ -32,15 +34,22 @@ public class EnemyBehaviour : MonoBehaviour {
             health -= missle.GetDamage();
             if (health <= 0)
             {
-                Destroy(gameObject);
-                scoreKeeper.Score(scoreValue);
+                Die();
             }
         }
     }
     void Fire()
     {
-        Vector3 startPosition = transform.position + new Vector3(0, -1, 0);
+        AudioSource.PlayClipAtPoint(enemyLaserSFX, transform.position, 1f);
+        Vector3 startPosition = transform.position;
         GameObject missle = Instantiate(projectile, startPosition, Quaternion.identity) as GameObject;
         missle.GetComponent<Rigidbody2D>().velocity = new Vector2(0, -projectileSpeed);
+    }
+
+    void Die()
+    {
+        AudioSource.PlayClipAtPoint(enemyDestroyedSFX, transform.position, 1f);
+        Destroy(gameObject);
+        scoreKeeper.Score(scoreValue);
     }
 }
